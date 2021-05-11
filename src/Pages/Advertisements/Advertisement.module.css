@@ -1,0 +1,20 @@
+.ads {
+  z-index: 2;
+
+  position: absolute;
+
+  top: 130%;
+  left: 70%;
+  max-width: 500px;
+  max-height: 500px;
+}
+.ads:hover {
+  cursor: pointer;
+}
+.add:hover {
+  cursor: pointer;
+}
+.add {
+  position: relative;
+  right: 30px;
+}
