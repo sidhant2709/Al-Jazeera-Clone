@@ -9,6 +9,7 @@ import TopContent from './TopContent';
 import { EconomyWithoutFooter } from '../Economy/EconomyWithoutFooter';
 import { OpinionWithoutFooter } from '../Opinion/OpinionWithoutFooter';
 import { FeaturesWithoutFooter } from '../Features/FeaturesWithoutFooter';
+import { FooterContainer } from '../../Common/Footer/Containers/Footer';
 const Landing = () => {
   return (
     <div className={styles.main}>
@@ -56,6 +57,7 @@ const Landing = () => {
 
       <h1 style = {{textAlign: "center"}}>Coronavirus related news</h1>
       <Corona />
+      <FooterContainer/>
     </div>
   );
 };

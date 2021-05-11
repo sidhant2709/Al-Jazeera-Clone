@@ -12,12 +12,12 @@ import { Features } from "../Pages/Features/Features"
 import { FeaturesContent } from "../Pages/Features/FeaturesContent"
 import { Opinion } from "../Pages/Opinion/Opinion";
 import { Content3 } from "../Pages/Opinion/FullArticle/Content";  
-import { FooterContainer } from '../Common/Footer/Containers/Footer';
 function AllRoutes() {
   const location = useLocation();
   console.log('location inside Routes', location);
   return (
     <>
+      
       <Switch>
         <Route exact path='/'>
           <Landing />

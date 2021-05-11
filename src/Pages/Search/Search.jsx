@@ -138,6 +138,7 @@ import styles from './Styles/Search.module.css';
 import getNewsData from './Utilities/Utilities';
 import Paginate from './Paginate';
 import Loader from 'react-loader-spinner';
+import { FooterContainer } from '../../Common/Footer/Containers/Footer';
 
 
 const Search = () => {
@@ -220,7 +221,8 @@ const Search = () => {
                     })
                 }
                 <button className={styles.nextBtn} onClick={nextPage}>Next &#62;</button>
-            </div> }
+            </div>}
+            <FooterContainer/>
         </>
         )
 }   
