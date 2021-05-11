@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Al-Jazeera-Clone/static/css/main.01708968.chunk.css",
-    "main.js": "/Al-Jazeera-Clone/static/js/main.f4c0ab7f.chunk.js",
-    "main.js.map": "/Al-Jazeera-Clone/static/js/main.f4c0ab7f.chunk.js.map",
+    "main.js": "/Al-Jazeera-Clone/static/js/main.04fc8121.chunk.js",
+    "main.js.map": "/Al-Jazeera-Clone/static/js/main.04fc8121.chunk.js.map",
     "runtime-main.js": "/Al-Jazeera-Clone/static/js/runtime-main.65ea72b1.js",
     "runtime-main.js.map": "/Al-Jazeera-Clone/static/js/runtime-main.65ea72b1.js.map",
-    "static/js/2.0f08d60a.chunk.js": "/Al-Jazeera-Clone/static/js/2.0f08d60a.chunk.js",
-    "static/js/2.0f08d60a.chunk.js.map": "/Al-Jazeera-Clone/static/js/2.0f08d60a.chunk.js.map",
+    "static/js/2.80829612.chunk.js": "/Al-Jazeera-Clone/static/js/2.80829612.chunk.js",
+    "static/js/2.80829612.chunk.js.map": "/Al-Jazeera-Clone/static/js/2.80829612.chunk.js.map",
     "index.html": "/Al-Jazeera-Clone/index.html",
     "static/css/main.01708968.chunk.css.map": "/Al-Jazeera-Clone/static/css/main.01708968.chunk.css.map",
-    "static/js/2.0f08d60a.chunk.js.LICENSE.txt": "/Al-Jazeera-Clone/static/js/2.0f08d60a.chunk.js.LICENSE.txt"
+    "static/js/2.80829612.chunk.js.LICENSE.txt": "/Al-Jazeera-Clone/static/js/2.80829612.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.65ea72b1.js",
-    "static/js/2.0f08d60a.chunk.js",
+    "static/js/2.80829612.chunk.js",
     "static/css/main.01708968.chunk.css",
-    "static/js/main.f4c0ab7f.chunk.js"
+    "static/js/main.04fc8121.chunk.js"
   ]
 }
